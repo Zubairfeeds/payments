@@ -1,7 +1,7 @@
 # Payments
 
 A payments app for frappe.
-
+Updated By Ali Naqi ZFPl
 ## Installation
 1. Install [bench & frappe](https://frappeframework.com/docs/v14/user/en/installation).
 
